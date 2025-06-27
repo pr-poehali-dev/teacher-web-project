@@ -65,7 +65,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Светлана Виталиевна Мигачёва. Все права защищены.
+            © 2024 Светлана Михайловна Мигачёва. Все права защищены.
           </p>
         </div>
       </div>

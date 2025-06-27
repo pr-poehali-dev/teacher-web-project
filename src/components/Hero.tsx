@@ -24,7 +24,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="max-w-4xl mx-auto">
           <h1 className="font-montserrat text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Светлана Виталиевна
+            Светлана Михайловна
             <span className="block text-purple-600">Мигачёва</span>
           </h1>
 
